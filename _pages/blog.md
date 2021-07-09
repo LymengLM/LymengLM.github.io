@@ -9,7 +9,8 @@ permalink: /blog/
 <div class="pretty-links">
 
 <div class="lead lead-about">
-I blog about machine learning and statistics on [Machine Master](https://machine-master.blogspot.ch/)
+Under Construction
+<!-- I blog about machine learning and statistics on [Machine Master](https://machine-master.blogspot.ch/) -->
 </div>
 
 </div>

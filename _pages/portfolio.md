@@ -9,7 +9,8 @@ permalink: /book/
 <div class="pretty-links">
 
 <div class="lead lead-about">
-Read my book about [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/). 
+Coming Soon
+<!-- Read my book about [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/).  -->
 </div>
 
 </div>

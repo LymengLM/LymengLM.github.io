@@ -1,19 +1,19 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: Christoph Molnar Analytics               # used for the html title of every page
-desc: Professional website of Christoph Molnar
+title: Lymeng LM          # used for the html title of every page
+desc: Professional website of Lymeng
 
-url: https://christophm.github.io      # put your website hosting url here
+url: https://lymenglm.github.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: christoph.molnar.ai@gmail.com
-author: Christoph Molnar
-twitter_username: ChristophMolnar
-github_username: christophM
-github_source: christophm.github.io
+email: lymeng.c@gmail.com
+author: Lymeng Chhim
+twitter_username:
+github_username: LymengLM
+github_source: lymenglm.github.io
 
 # Put your ga tracking code below
 google_analytics: 'UA-XXXXXXXX-X'
@@ -26,8 +26,8 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
-  - title: Book
-    url: /book/
+  - title: Portfolio
+    url: /profolio/
     desc: Book on Interpretable Machine Learning
   - title: Blog
     url: /blog/
