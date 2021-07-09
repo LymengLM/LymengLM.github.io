@@ -7,11 +7,11 @@ permalink: /imprint/
 ---
 
 
-Christoph Molnar \\
-Munich, Germany
+Lymeng Chhim \\
+Phnom Penh, Cambodia
 
 <script language="JavaScript">
-var username = "christoph.molnar.ai";
+var username = "lymeng.c";
 var hostname = "gmail.com";
 var linktext = username + "@" + hostname ;
 document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
