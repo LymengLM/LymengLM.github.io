@@ -31,7 +31,7 @@ navigation:
     desc: Book on Interpretable Machine Learning
   - title: Blog
     url: /blog/
-    desc: My blog
+    desc: My blogs
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
