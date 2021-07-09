@@ -3,7 +3,7 @@ layout: page
 title: IML Book
 subtitle: Book on Interpretable Machine Learning
 desc: A Guide for Making Black Box Models Explainable.
-permalink: /book/
+permalink: /portfolio/
 ---
 
 <div class="pretty-links">
